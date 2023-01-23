@@ -1,0 +1,13 @@
+package com.batch.sql.partition.batchsqlpartition;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class BatchSqlPartitionApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(BatchSqlPartitionApplication.class, args);
+	}
+
+}
